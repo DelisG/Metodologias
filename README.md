@@ -1,4 +1,4 @@
-# :books: Guia Rápido de Metodologias Ágeis em uma Empresa de TI :books:
+# :books: Guia Rápido de Metodologias Ágeis :books: 
 
 Este repositório contém um guia rápido para ajudar a implementar metodologias ágeis em uma empresa de TI. Aqui estão algumas dicas e métodos para você aproveitar ao máximo as metodologias ágeis em seu ambiente de trabalho:
 
